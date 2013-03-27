@@ -3,7 +3,7 @@
 <div style="height:100px;">
 
 <p class="lead">
-Your main resume is <a href="http://www.doyoubuzz.com/<?php echo $response['user']['slug'];?>" target="_blank"><?php echo $mainResume['title'];?></a> and describe <?php echo $nbExperiences;?> experiences. It has been last updated the <?php echo $updatedAt->format('jS \of M, Y');?>. Oh, you can also <a href="<?php echo $mainResume['printable']['pdf'] ;?>">download the PDF version</a>, sweet!
+Your main resume is <a href="<?php echo $mainResume['url'];?>" target="_blank"><?php echo $mainResume['title'];?></a> and describe <?php echo $nbExperiences;?> experiences. It has been last updated the <?php echo $updatedAt->format('jS \of M, Y');?>. Oh, you can also <a href="<?php echo $mainResume['printable']['pdf'] ;?>">download the PDF version</a>, sweet!
 
 </p>
 </div>

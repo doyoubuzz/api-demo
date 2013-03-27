@@ -10,12 +10,12 @@ This is the source code of the DoYouBuzz API Demo Website available on [http://a
 
 The interesting files and directories are: 
 
-/
-|- index.php     
-|- conf.php
-|- /controller
-|- /views
-|- /libs
+    /
+    |- index.php     
+    |- conf.php
+    |- /controller
+    |- /views
+    |- /libs
 
 ## index.php
 

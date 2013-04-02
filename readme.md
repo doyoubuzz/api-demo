@@ -6,7 +6,7 @@ This is the source code of the DoYouBuzz API Demo Website available on [http://a
 
     git clone https://github.com/doyoubuzz/api-demo.git
 
-Update the $site_url in the conf.php file to match your local URL (example: http://localhost/doyoubuzz-demo/).
+Update the $site_url in the conf.php file to match your local URL (example: http://api-demo.local).
 
 # Architecture
 

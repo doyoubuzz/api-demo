@@ -58,7 +58,3 @@ width:100%;
 
 </body>
 </html>
-
-
-</body>
-</html>

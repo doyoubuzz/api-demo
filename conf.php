@@ -7,5 +7,5 @@ $env_url      = getenv('SITE_URL');
 $site_url     = (isset($env_url)) ? $env_url : 'http://api-demo.local/';
 $callback_url = 'index.php?page=callback'; // Your relative callback URL
 
-
+  
 ?>
